@@ -104,8 +104,8 @@ body {
     top: -100px;
 }
 
-/* Download */
-.download {
+/* Links */
+.links {
     color: var(--clr-secondary);
     text-align: center;
     padding: 0;
@@ -113,13 +113,17 @@ body {
     font-weight: var(--fw-bold);
 }
 
-.download {
+.links {
     margin: 0 13em;
     position: relative;
     top: -175px;
 }
 
-.download:hover {
+#video:hover {
+    opacity: .7;
+}
+
+#book:hover {
     opacity: .7;
 }
 
