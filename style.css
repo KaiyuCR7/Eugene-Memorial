@@ -127,6 +127,14 @@ body {
     opacity: .7;
 }
 
+#book {
+    margin: 0 .5em;
+}
+
+#video {
+    margin: 0 .5em;
+}
+
 a {
     color: inherit;
     text-decoration: none;
