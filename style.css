@@ -91,7 +91,7 @@ h3 { font-size: var(--fs-h3) }
 /* Background */
 body {
     background-color: var(--clr-dark);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("background.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("web_background.jpg");
     background-size: cover;
     background-position: center top;
     color: var(--clr-light);
