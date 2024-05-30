@@ -226,4 +226,8 @@ a {
         width: 200px;
         margin-bottom: 50px;
     }
+
+    .links {
+        font-size: 1rem;
+    }
 }
