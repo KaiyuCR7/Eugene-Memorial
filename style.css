@@ -137,3 +137,11 @@ a {
     color: inherit;
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px)
+{
+    body {
+    text-align: center;
+    background-position: center;
+    }
+}
