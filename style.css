@@ -7,7 +7,7 @@
 /* Custom Properties*/
 
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-primary: 'Didact Gothic', sans-serif;
     --ff-secondary: 'Great Vibes', sans-serif;
     
     --fw-reg: 300;
@@ -82,7 +82,7 @@ h3 { font-size: var(--fs-h3) }
 
 .section__subtitle {
     margin: 0;
-    font-size: var(--fs-h3);
+    font-size: 2rem;
 }
 
 /* Background */
@@ -114,7 +114,7 @@ body {
 .links {
     margin: 0 13em;
     position: relative;
-    top: -200px;
+    top: -225px;
 }
 
 #video-link:hover {
