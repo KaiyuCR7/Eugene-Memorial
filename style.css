@@ -90,8 +90,7 @@ body {
     background-color: var(--clr-dark);
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("web_background.jpg");
     background-position: center top;
-    background-size: 100vh 100vh;
-    background-attachment: fixed;
+    background-size: cover;
     color: var(--clr-light);
     text-align: center;
 }
@@ -202,19 +201,6 @@ a {
 #Japanese:hover {
     opacity: 0.7;
 }
-
-/* @media screen and (max-width: 1180px)
-{
-    body {
-        background-color: var(--clr-dark);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("web_background.jpg");
-        background-position: center top;
-        background-size: contain;
-        background-attachment: fixed;
-        color: var(--clr-light);
-        text-align: center;
-    }
-} */
 
 @media screen and (max-width: 500px)
 {
