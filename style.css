@@ -8,7 +8,7 @@
 
 :root {
     --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-secondary: 'Great Vibes', sans-serif;
     
     --fw-reg: 300;
     --fw-bold: 900;
@@ -77,15 +77,12 @@ h3 { font-size: var(--fs-h3) }
 
 .section__title--intro {
     font-weight: var(--fw-reg);
+    font-family: var(--ff-secondary);
 }
 
 .section__subtitle {
     margin: 0;
     font-size: var(--fs-h3);
-}
-
-.section__subtitle--intro {
-    font-family: var(--ff-secondary);
 }
 
 /* Background */
