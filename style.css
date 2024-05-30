@@ -209,7 +209,7 @@ a {
         background-color: var(--clr-dark);
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("web_background.jpg");
         background-position: center top;
-        background-size: contain;
+        background-size: 100% 100%;
         background-attachment: fixed;
         color: var(--clr-light);
         text-align: center;
@@ -221,7 +221,7 @@ a {
     body {
         background-color: var(--clr-dark);
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("mobile_option_3.png");
-        background-size: cover;
+        background-size: 100% 100%;
         background-position: center top;
         background-attachment: fixed;
         color: var(--clr-light);
