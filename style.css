@@ -231,6 +231,7 @@ a {
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("mobile_option_new.jpg");
         background-size: cover;
         background-position: center top;
+        background-attachment: fixed;
         color: var(--clr-light);
         text-align: center;
     }
@@ -267,7 +268,7 @@ a {
     }
 
     .message-container {
-        width: 200px;
+        width: 275px;
         margin-bottom: 50px;
     }
 
